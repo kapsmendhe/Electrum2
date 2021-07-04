@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Electrum2/static/js/main.b3401ae5.chunk.js",
+    "main.js.map": "/Electrum2/static/js/main.b3401ae5.chunk.js.map",
+    "runtime-main.js": "/Electrum2/static/js/runtime-main.8726ad62.js",
+    "runtime-main.js.map": "/Electrum2/static/js/runtime-main.8726ad62.js.map",
+    "static/js/2.27ad39b7.chunk.js": "/Electrum2/static/js/2.27ad39b7.chunk.js",
+    "static/js/2.27ad39b7.chunk.js.map": "/Electrum2/static/js/2.27ad39b7.chunk.js.map",
+    "index.html": "/Electrum2/index.html",
+    "static/js/2.27ad39b7.chunk.js.LICENSE.txt": "/Electrum2/static/js/2.27ad39b7.chunk.js.LICENSE.txt",
+    "static/media/college_01.bbb13c0d.jpg": "/Electrum2/static/media/college_01.bbb13c0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8726ad62.js",
+    "static/js/2.27ad39b7.chunk.js",
+    "static/js/main.b3401ae5.chunk.js"
+  ]
+}
